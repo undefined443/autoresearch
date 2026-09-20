@@ -20,7 +20,7 @@ If you are new to neural networks, this ["Dummy's Guide"](https://x.com/hooeem/s
 
 ## Quick start
 
-**Requirements:** A single NVIDIA GPU (tested on H100), Python 3.10+, [uv](https://docs.astral.sh/uv/).
+**Requirements:** A single NVIDIA GPU (tested on H100), Python 3.13+, [uv](https://docs.astral.sh/uv/).
 
 ```bash
 
